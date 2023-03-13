@@ -5,8 +5,8 @@ git config --global --list - установить список
 git clone https:// -копирует сылку
 cd -переход
 git status - показыает статус
-git branch - создает ветвь
+git branch - название ветки
 git checkout - переходит на ветвь
 git add . - добовляет все
-git push - отправляет
 git commit - изменить
+git push - отправляет
