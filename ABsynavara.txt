@@ -1,19 +1,19 @@
 ﻿andmebaas - database
 andmebaasihaldur - admin BD
 andmebaasi haldamise tarkvara - sistema upravleniya BD
-kirje -
-väli
-tabel
-päring
-veerg
-rida
-seosed
-piirangud
-primaarvõti
-andmemudel
-varukoopia
-kasutusjuhend
-turvalisus
-kättesaadavus
-andmete õigsus
-sisestusvorm
+kirje - zapisyvat
+väli - pole
+tabel - tablica
+päring - zapros
+veerg - stolbec
+rida - ryad
+seosed - svyazi
+piirangud - ogrnicheniya / primary key, foreign key, unique, not null
+primaarvõti - primary key
+andmemudel - modul dannyh
+varukoopia - rezrvnaya kopiya
+kasutusjuhend - rukovodstvo polzovatelya
+turvalisus - bezopasnost
+kättesaadavus - dostupnost
+andmete õigsus - prvilnost failov
+sisestusvorm - forma vvoda

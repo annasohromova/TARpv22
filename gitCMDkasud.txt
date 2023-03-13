@@ -1,0 +1,24 @@
+-- rabochiy stol
+cd desktop
+--ustanovit imya polzovatelya
+git config --global user.name "Yaroslav Yekasov"
+--ustanovit e-mail
+git config --global user.email "y.payer.56@gmail.com"
+--proverka
+git config --glabal --list
+--klonirovanie v github uchitelya
+git clone https://github.com/IrinaMerkulova/TARpv22.git
+--proverka
+git status
+--sozdat svoyu veytv
+git branch YaroslavY
+--dobavlyaet v github
+--perehod na vetv
+git checkout
+git add .
+--izmenit fail
+git commit -a -m "tõlkitud 3 sõnat"
+--zapostit fail v github
+git push
+--post v svoi github
+git push --set-upstream origin YaroslavY
