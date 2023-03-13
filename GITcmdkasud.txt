@@ -1,0 +1,23 @@
+--перейти на рабочий стол
+cd desktop
+--установить имя пользователя
+get config --global user.name "Arkadi Korotitsh"
+--установить е-майл
+git config --global user.email "arkadi.korotots@mjg.ee"
+
+--проверка
+git config --global --list
+--склонировать с github в папку
+git clone https://github.com/IrinaMerkulova/TARpv22.git
+--проверка изменений
+git status
+--создать ветку
+git branch Arkadi
+--сменить ветку
+git checkout Arkadi
+--добавить изменения
+git add .
+--совершить изменения с комментарием
+git commit -a -m "tõlkitud 3 sõnat"
+--отправить изменения в github
+git push

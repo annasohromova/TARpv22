@@ -1,7 +1,7 @@
 andmebaas - database
 andmebaasihaldur - админ БД
 andmebaasi haldamise tarkvara - CУБД - система управления БД
-kirje - письмо
+kirje - запись
 väli - пропуск/пробел
 tabel - таблица
 päring - запрос
