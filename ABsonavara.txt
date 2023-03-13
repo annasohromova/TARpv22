@@ -2,17 +2,17 @@ andmebaas-база данных
 andmebaasihaldur-админ базы данных
 andmebaasi haldamise tarkvara-субд-система управления базами данных
 kirje-запись
-väli-открытый
-tabel-столбец
+väli-поле
+tabel-таблица
 päring-запрос
-veerg-линия
+veerg-столбец
 rida-ряд
 seosed-связи
-piirangud-границы
+piirangud-ограничения / PRIMARY KEY, FOREIGN KEY, UNIQUE, NOT NULL
 primaarvõti-первичный ключ
 andmemudel-модель данных
 varukoopia-резервная копия
-kasutusjuhend-руководитель
+kasutusjuhend-руководство по использованию
 turvalisus-безопастность
 kättesaadavus-доступность
 andmete õigsus-правильность данных
