@@ -1,0 +1,12 @@
+1*cd desktop 
+переход на рабочий стол
+2*>git config --global user.name "Veronika Milovzorova" 
+установить имя пользователя
+3*git config --global user.email "veronika.milovzorova@gmail.com" 
+установить емайл
+4*>git add 
+копирует файлы в их текущем состоянии
+5*>git push
+выставить
+6*>git commit 
+комментировать
