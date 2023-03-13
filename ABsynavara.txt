@@ -1,19 +1,19 @@
-andmebaas
-andmebaasihaldur
-andmebaasi haldamise tarkvara
-kirje
-väli
-tabel
-päring
-veerg
-rida
-seosed
-piirangud
-primaarvõti
-andmemudel
-varukoopia
-kasutusjuhend
-turvalisus
-kättesaadavus
-andmete õigsus
-sisestusvorm
+andmebaas - ab
+andmebaasihaldur - ab admin
+andmebaasi haldamise tarkvara - system menegment ab
+kirje - zapisyvat
+väli - pole
+tabel - tablica
+päring - zapros
+veerg - stolbec
+rida -ryad
+seosed - svazi
+piirangud - ogranichenia/ not null, unique, primary/foregin key
+primaarvõti - primary key
+andmemudel - moduldannyh
+varukoopia - rezervnaja copia
+kasutusjuhend - polzovatelskoje rukovodstvo
+turvalisus - safenes/ bezopasnost
+kättesaadavus - dostupnost
+andmete õigsus - prvilnost failov
+sisestusvorm - forma vvoda
