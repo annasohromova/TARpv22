@@ -1,0 +1,31 @@
+-- перейти на рабочий стол
+cd desktop
+
+-- установить имя пользователя
+git config --global user.name "Maksim Tsepelevits"
+
+--установить емайл
+git config --global user.email "maksimplamja@gmail.com"
+
+--проверка
+git config --global --list
+
+--сменить ветку
+git branch MaksimTs
+
+--добавление всех файлов для обновление в дальнейшем
+git add .
+
+--обновление всех файлов с сообщением
+git commit -a -m "message"
+
+--отправка на github
+git push
+
+--проверка статуса
+git status
+
+
+
+
+
