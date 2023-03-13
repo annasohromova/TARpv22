@@ -7,10 +7,10 @@ tabel - таблица
 päring - запрос
 veerg - столбец
 rida - ряд
-seosed - связи
-piirangud - пределы
-primaarvõti - основной ключ
-andmemudel - 
+seosed - связи / seos - связь
+piirangud - ограничения / PRIMARY KEY / FOREGIN KEY / NOT LL
+primaarvõti - первичный ключ
+andmemudel - модель данных
 varukoopia - резервная копия
 kasutusjuhend - руководство
 turvalisus - безопаснось
