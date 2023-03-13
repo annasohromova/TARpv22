@@ -1,7 +1,7 @@
-andmebaas
-andmebaasihaldur
-andmebaasi haldamise tarkvara
-kirje
+﻿andmebaas - database
+andmebaasihaldur - admin BD
+andmebaasi haldamise tarkvara - sistema upravleniya BD
+kirje -
 väli
 tabel
 päring
