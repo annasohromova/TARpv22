@@ -5,8 +5,8 @@ git config --global --list - показать список
 git clone https://github.com/IrinaMerkulova/TARpv22.git - скопировать файл с источника
 cd TARpv22 - перейти в папку
 git status - показать статус
-git branch MartinK - 
-git checkout MartinK
+git branch MartinK - название ветки
+git checkout MartinK - перейти на ветку
 git add . - добавить все
 git commit -a -m "tõlkitud 3 sõnat" - добавить комментарии
 git push --set-upstream origin MartinK - отправить работу
