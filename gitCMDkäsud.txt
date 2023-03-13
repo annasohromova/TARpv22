@@ -1,0 +1,14 @@
+-- перейти на рабочий стол
+cd Desktop
+-- проверить статус
+git status
+сделать комит
+git commit -a -m "tõlkitud kõik sõnat"
+сделать чек аут
+git checkout
+добавить имя
+git config --global user.name "Deniss Gorjunov"
+добавить эмайл
+git config --global user.email "pinkod2222@gmail.com"
+
+git config --global --list
