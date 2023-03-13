@@ -1,0 +1,19 @@
+andmebaas-база данных
+andmebaasihaldur-админ базы данных
+andmebaasi haldamise tarkvara-субд-система управления базами данных
+kirje-запись
+väli-открытый
+tabel-столбец
+päring-запрос
+veerg-линия
+rida-ряд
+seosed-связи
+piirangud-границы
+primaarvõti-первичный ключ
+andmemudel-модель данных
+varukoopia-резервная копия
+kasutusjuhend-руководитель
+turvalisus-безопастность
+kättesaadavus-доступность
+andmete õigsus-правильность данных
+sisestusvorm-форма ввода
