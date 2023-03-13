@@ -1,0 +1,12 @@
+cd desktop - перейти на раб. стол
+git config --global user.name "Martin Kemppi" - установить имя пользователя
+git config --global user.email "dusperin1234@gmail.com" - установить э-мэйл для пользователя
+git config --global --list - показать список 
+git clone https://github.com/IrinaMerkulova/TARpv22.git - скопировать файл с источника
+cd TARpv22 - перейти в папку
+git status - показать статус
+git branch MartinK - 
+git checkout MartinK
+git add . - добавить все
+git commit -a -m "tõlkitud 3 sõnat" - добавить комментарии
+git push --set-upstream origin MartinK - отправить работу
