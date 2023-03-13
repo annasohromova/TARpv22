@@ -1,0 +1,9 @@
+--перейти на рабочий стол
+cd desktop
+--установить имя пользователя
+git config --global user.name "MartinN"
+--установить email пользователя
+git config --global user.email " "
+
+--проверка
+git config --global --list
