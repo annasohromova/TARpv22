@@ -1,19 +1,19 @@
 andmebaas - database (БД)
 andmebaasihaldur - Админ БД
 andmebaasi haldamise tarkvara - система управления БД
-kirje
-väli
-tabel
-päring
-veerg
-rida
-seosed
-piirangud
-primaarvõti
-andmemudel
-varukoopia
-kasutusjuhend
-turvalisus
-kättesaadavus
-andmete õigsus
-sisestusvorm
+kirje - запись
+väli - поле
+tabel - таблица
+päring - запрос
+veerg - столбец
+rida - ряд
+seosed - связи
+piirangud - пределы
+primaarvõti - основной ключ
+andmemudel - модель данных
+varukoopia - резервная копия
+kasutusjuhend - руководство
+turvalisus - безопасность
+kättesaadavus - доступность
+andmete õigsus - правильность данных
+sisestusvorm - форма ввода
