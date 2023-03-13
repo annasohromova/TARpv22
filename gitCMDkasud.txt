@@ -1,0 +1,12 @@
+cd desktop - перейти на рабочий стол
+git config--global user.name -установить имя пользователя
+git config --global user.email -установить эмайл
+git config --global --list - установить список
+git clone https:// -копирует сылку
+cd -переход
+git status - показыает статус
+git branch - создает ветвь
+git checkout - переходит на ветвь
+git add . - добовляет все
+git push - отправляет
+git commit - изменить
