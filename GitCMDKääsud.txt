@@ -7,3 +7,28 @@ git config --global user.email " "
 
 --проверка
 git config --global --list
+
+--клонировать репозиторий
+git clone https://github.com/IrinaMerkulova/TARpv22.git
+
+--cd TARpv22
+переход в данный репозиторий
+
+--создание отдельной ветки
+git branch MartinN
+
+--переход в данную ветку
+git checkout MartinN
+
+--git add .
+сохранить все изменения
+
+--Коммит и его описание
+git commit -a -m ""
+
+--запушить коммит
+git push
+
+если не сработало, то
+
+git push --set-upstream origin MartinN
