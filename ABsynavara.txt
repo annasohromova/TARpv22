@@ -4,16 +4,16 @@ andmebaasi haldamise tarkvara - СУБД
 kirje - description
 väli - choose
 tabel - table
-päring - 
-veerg - 
-rida - ряд
-seosed - settings
-piirangud
-primaarvõti
+päring - Request from 
+veerg - column 
+rida - row
+seosed - links
+piirangud - restrictions
+primaarvõti - primary source
 andmemudel - data model
-varukoopia
-kasutusjuhend
-turvalisus
-kättesaadavus
-andmete õigsus
-sisestusvorm
+varukoopia - backup copy
+kasutusjuhend - user manual
+turvalisus - security
+kättesaadavus - availability at
+andmete õigsus - accuracy of data
+sisestusvorm - input form
