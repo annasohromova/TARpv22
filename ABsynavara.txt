@@ -1,19 +1,19 @@
-andmebaas
-andmebaasihaldur
-andmebaasi haldamise tarkvara
-kirje
-väli
-tabel
-päring
-veerg
-rida
-seosed
-piirangud
-primaarvõti
-andmemudel
-varukoopia
-kasutusjuhend
-turvalisus
-kättesaadavus
-andmete õigsus
-sisestusvorm
+andmebaas - база данных
+andmebaasihaldur - менеджер базы данных
+andmebaasi haldamise tarkvara - программное обеспечение для управления базой данных
+kirje - записывать
+väli - поле
+tabel - Таблица
+päring - запрос
+veerg - столбец
+rida - ряд
+seosed - связи
+piirangud - пределы
+primaarvõti - основной ключ
+andmemudel - модель данных
+varukoopia - резервная копия
+kasutusjuhend - руководство
+turvalisus - безопасность
+kättesaadavus - доступность
+andmete õigsus - правильность данных
+sisestusvorm - форма ввода
