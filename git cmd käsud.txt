@@ -1,0 +1,12 @@
+cd desktop #Перейти на рабочий стол
+git config --global user.name "Ekaterina Mõsljajeva" #Установить имя пользователя
+git config --global user.email "katjamosljajeva@mail.ru" #Установить почту
+git config --global --list #Проверка
+git clone https://github.com/IrinaMerkulova/TARpv22.git #Клонирование
+cd TARpv22 #Переход в папку 
+git status #Проверка статуса
+git branch EkaterinaM #Создание бранча
+git checkout EkaterinaM #Перейти в бранч
+git add . #Сохранить изменения
+git commit -a -m "Tölkitud 3 sõna" #Сохранение изменений (С описанием)
+git push --set-upstream origin EkaterinaM #Отправить
