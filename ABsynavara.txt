@@ -1,19 +1,19 @@
-andmebaas - database
-andmebaasihaldur - database admin
-andmebaasi haldamise tarkvara - СУБД
-kirje - description
-väli - choose
-tabel - table
-päring - Request from 
-veerg - column 
-rida - row
-seosed - links
-piirangud - restrictions
-primaarvõti - primary source
-andmemudel - data model
-varukoopia - backup copy
-kasutusjuhend - user manual
-turvalisus - security
-kättesaadavus - availability at
-andmete õigsus - accuracy of data
-sisestusvorm - input form
+andmebaas - database (БД)
+andmebaasihaldur - Админ БД
+andmebaasi haldamise tarkvara - система управления БД
+kirje - запись
+väli - поле
+tabel - таблица
+päring - запрос
+veerg - столбец
+rida - ряд
+seosed - связи / seos - связь
+piirangud - ограничения / PRIMARY KEY, FOREIGN KEY, UNIQUE, NOT NULL
+primaarvõti - основной ключ
+andmemudel - модель данных
+varukoopia - резервная копия
+kasutusjuhend - руководство пользователя
+turvalisus - безопасность
+kättesaadavus - доступность
+andmete õigsus - правильность данных
+sisestusvorm - форма ввода
