@@ -8,7 +8,7 @@ päring - запрос
 veerg - столбец
 rida - ряд
 seosed - связи
-piirangud - пределы
+piirangud - ограничения
 primaarvõti - основной ключ
 andmemudel - модель данных
 varukoopia - резервная копия
