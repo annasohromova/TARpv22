@@ -1,6 +1,6 @@
-andmebaas
-andmebaasihaldur
-andmebaasi haldamise tarkvara
+andmebaas - database
+andmebaasihaldur - админ БД
+andmebaasi haldamise tarkvara - СУБД - Система Управления базами данных
 kirje
 väli
 tabel
