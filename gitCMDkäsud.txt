@@ -10,6 +10,6 @@ git config --global --list
 git status
 -- 1) сменить ветку
 git branch Oleksandr
-2) git checkout Oleksandr
+2) git Deniss
 -- запушить 
 1) git add . 2)git commit -a -m "tõlkitud õige sõnad" 3)git push
