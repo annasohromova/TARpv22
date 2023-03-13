@@ -1,0 +1,15 @@
+-- перейти на рабочий стол
+cd desktop
+--установить имя пользователя
+git config --global user.name "Имя пользователя"
+--установить почту
+git config --global user.email "Почта"
+--проверка
+git config --global --list
+--запушить
+git push
+--запушить на свое имя 
+git push --set-upstream origin имя
+--проверить статус
+--коммит
+git commit -a -m "text"
