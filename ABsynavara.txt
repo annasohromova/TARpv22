@@ -8,12 +8,12 @@ päring - запрос
 veerg - графа
 rida - строка
 seosed - Связи 
-piirangud - ограничения 
+piirangud - ограничения / PRIMARY KEY, FOREIGN KEY, UNIQUE, NOT NULL
 primaarvõti - первичный ключ
 andmemudel - модель данных
 varukoopia - резервная копия
-kasutusjuhend - Руководство по эксплуатации
-turvalisus - безопасности
+kasutusjuhend - Руководство пользователя
+turvalisus - безопасность
 kättesaadavus - Доступность
 andmete õigsus - достоверность данных
 sisestusvorm - форма ввода

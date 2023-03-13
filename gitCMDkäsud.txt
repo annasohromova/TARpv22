@@ -1,0 +1,15 @@
+-- перейти на рабочий стол
+cd desktop
+-- установить имя пользователя
+git config --global user.name "Oleksandr Bohatyrov"
+-- установить е-майл
+git config --global user.email "oleksandr.bohatyrov@gmail.com"
+-- проверка 
+git config --global --list
+-- статус 
+git status
+-- 1) сменить ветку
+git branch Oleksandr
+2) git checkout Oleksandr
+-- запушить 
+1) git add . 2)git commit -a -m "tõlkitud kolm sõnad" 3)git push
