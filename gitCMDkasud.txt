@@ -1,0 +1,15 @@
+﻿-- перейти на рабочий стол
+cd desktop
+-- установить имя пользователя
+git config --global user.name "Aleksander Rogovski"
+-- установить е-майл
+git config --global user.email "aleks09.teki5@gmail.com"
+-- проверка 
+git config --global --list
+-- статус
+git status
+-- Сменить ветку
+git branch AeksandrR
+git checkout AleksanderR
+-- пуш
+1) git add . 2)git commit -a -m "tõlkitud 3 sõnad" 3)git push 4)git push --set-upstream origin AleksanderR 5)Сначала логинимся и после этого вводим токен пользователя в имя
