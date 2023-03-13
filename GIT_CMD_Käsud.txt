@@ -1,0 +1,13 @@
+cd desktop - перейти на рабочий стол
+git config --global user.name "Matvei Kulakovski" - установить имя пользователя
+git config --global user.email "matveikulakovski@gmail.com" - установить email пользователя
+git config --global --list -показать список
+git clone https://github.com/IrinaMerkulova/TARpv22.git -  клонировать файл с источника
+cd TARpv22 - перейти в папку TARpv22
+git status - показать статус 
+git checkout - 
+git add - добавить всё
+git commit -a -m "tõlkitud 3 sõnat" - добавить коментарий
+git push - отправть работу
+
+
