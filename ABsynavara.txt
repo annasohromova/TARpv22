@@ -1,7 +1,7 @@
-andmebaas
-andmebaasihaldur
-andmebaasi haldamise tarkvara
-kirje
+﻿andmebaas - database - база данных
+andmebaasihaldur - админ БД
+andmebaasi haldamise tarkvara - СУБД - система управлния БД
+kirje	
 väli
 tabel
 päring
