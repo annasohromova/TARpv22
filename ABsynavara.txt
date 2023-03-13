@@ -8,7 +8,7 @@ päring - запрос
 veerg - столбец
 rida - строка
 seosed - ссылки
-piirangud - ограничения
+piirangud - ограничения(primary key, foreign key, uinque, not null)
 primaarvõti - первичный ключ
 andmemudel - модель данных
 varukoopia - резервное копирование

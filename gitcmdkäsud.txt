@@ -1,0 +1,23 @@
+C:\Users\opilane>cd desktop
+C:\Users\opilane\Desktop>git config --global user.name "Artur Shushkevitch"
+C:\Users\opilane\Desktop>git config --global user.email "artursuskevits@gmail.com"
+C:\Users\opilane\Desktop>git clone https://github.com/IrinaMerkulova/TARpv22.git
+C:\Users\opilane\Desktop>cd TARpv22
+C:\Users\opilane\Desktop\TARpv22>git branch Artur
+C:\Users\opilane\Desktop\TARpv22>git checkout Artur
+#Switched to branch 'Artur'
+C:\Users\opilane\Desktop\TARpv22>git status
+#On branch Artur
+C:\Users\opilane\Desktop\TARpv22>git add .
+C:\Users\opilane\Desktop\TARpv22>git commit -a -m "Tõlkitud lokm sona"
+#2 files changed, 3 insertions(+), 3 deletions(-)
+C:\Users\opilane\Desktop\TARpv22>git push
+fatal: The current branch Artur has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    !!!!git push --set-upstream origin Artur
+
+To have this happen automatically for branches without a tracking
+upstream, see 'push.autoSetupRemote' in 'git help config'.
+
+C:\Users\opilane\Desktop\TARpv22>git push --set-upstream origin Artur
