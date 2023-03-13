@@ -1,16 +1,16 @@
-andmebaas
-andmebaasihaldur
-andmebaasi haldamise tarkvara
-kirje
-väli
-tabel
-päring
-veerg
-rida
-seosed
+andmebaas - database
+andmebaasihaldur - database admin
+andmebaasi haldamise tarkvara - СУБД
+kirje - description
+väli - choose
+tabel - table
+päring - 
+veerg - 
+rida - ряд
+seosed - settings
 piirangud
 primaarvõti
-andmemudel
+andmemudel - data model
 varukoopia
 kasutusjuhend
 turvalisus
