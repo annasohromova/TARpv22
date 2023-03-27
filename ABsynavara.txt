@@ -1,19 +1,36 @@
-andmebaas-база данных
+﻿andmebaas-база данных
 andmebaasihaldur-админ базы данных
 andmebaasi haldamise tarkvara-субд-система управления базами данных
-kirje-
-väli-
-tabel-
-päring-
-veerg-
-rida-
-seosed-
-piirangud-
-primaarvõti-
-andmemudel-
-varukoopia-
-kasutusjuhend-
-turvalisus-
-kättesaadavus-
-andmete õigsus-
-sisestusvorm-
+kirje- Запись
+väli- Поле
+tabel- Таблица
+päring- Запрос
+veerg-столбец
+rida- Ряд
+seosed- Связи
+piirangud- ограничения
+primaarvõti- Основной ключ
+andmemudel- модель данных
+varukoopia- Резервная копия
+kasutusjuhend- Руководство пользователя
+turvalisus-Безопасность
+kättesaadavus-Доступность
+andmete õigsus-Правильность данных
+sisestusvorm-Форма ввода
+-----------------------------
+näide- Пример
+näidis- Образец
+Sõltuvus - Зависимость таблица
+Seos- Связь
+seadistus - Настройка
+Paigaldus - Установка
+hooldus - обслуживание 
+Lisamine - Добавление
+Kustutamine - Удаление
+uuendamine - Обновление
+Sorteerimine - Сортировка
+Pärimine - Запрашивание 
+kasutaja - пользователи
+kasutajate õigused - права пользователей
+haldamine - администрирование 
+
