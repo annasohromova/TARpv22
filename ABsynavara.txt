@@ -17,3 +17,19 @@ turvalisus - safenes/ bezopasnost
 kättesaadavus - dostupnost
 andmete õigsus - prvilnost failov
 sisestusvorm - forma vvoda
+------------------------------------------------------------------------------------------
+näide - primer
+näidis - obrazec
+sõtluvus - zavisimost, vzaimosvaz
+seos - sväz
+seadistus - nastrojka
+paigaldus - ustanovka
+hooldus - obslujevanie
+lisamine - dobavlenie
+kustudamine - udalenie
+pärimine - zaprashivanie
+uuendamine - obnovlenie
+kasutaja - polzovatel
+kasutaja õigused - prava polzovatelei
+haldamine - admenistrirovanie
+sorterimine - sortirovka
