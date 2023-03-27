@@ -1,19 +1,34 @@
-andmebaas-database
-andmebaasihaldur - менеджер баз данных
-andmebaasi haldamise tarkvara - СУБД
-kirje - запись
-väli - поле
-tabel - таблица
-päring - запрос
-veerg - столбец
-rida - строка
-seosed - ссылки
-piirangud - ограничения(primary key, foreign key, uinque, not null)
-primaarvõti - первичный ключ
-andmemudel - модель данных
-varukoopia - резервное копирование
-kasutusjuhend - руководство пользователя
-turvalisus - безопасность
-kättesaadavus - доступность
-andmete õigsus -точность данных
-sisestusvorm - форма ввода 
+andmebaas-база данных
+andmebaasihaldur-админ базы данных
+andmebaasi haldamise tarkvara-субд-система управления базами данных
+kirje-запись
+väli-поле
+tabel-таблица
+päring-запрос
+veerg-столбец
+rida-ряд
+seosed-связи
+piirangud-ограничения / PRIMARY KEY, FOREIGN KEY, UNIQUE, NOT NULL
+primaarvõti-первичный ключ
+andmemudel-модель данных
+varukoopia-резервная копия
+kasutusjuhend-руководство по использованию
+turvalisus-безопастность
+kättesaadavus-доступность
+andmete õigsus-правильность данных
+sisestusvorm-форма ввода
+näide-Пример
+näidis- образец
+söitivus-взаимосвязь
+seadistus- настройка
+paigaldus-установка
+hooldus - обслуживание
+lsamine
+uuemine
+sorterimine
+kustamine
+pärimine - запрашивание or опрос
+kasutaja - пользователи
+kasutahate õigused - права ползовтеля
+haldamine - управление
+
