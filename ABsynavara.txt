@@ -7,7 +7,7 @@ tabel - таблица
 päring - запрос
 veerg - столбец
 rida - строка
-seosed - ссылки
+seosed - связи
 piirangud - ограничения/ PRIMARY KEY/ FOREIGN KEY/ UNIQUE/ NOT NULL
 primaarvõti - первичный ключ
 andmemudel - модель данных
@@ -17,3 +17,19 @@ turvalisus - Безопасноть
 kättesaadavus - доступность
 andmete õigsus - точность данных
 sisestusvorm - форма ввода
+-----------------------------------------------------------------------
+Näide - пример
+Näidis - Образец
+sõltuvus - зависимость *таблиц*
+seos - связь
+seadistus - настройка
+paigaldus - установка
+hooldus - обслуживание
+lisamine - добавление
+kustutamine - удаление
+uuendamine - обновление
+sorteerimine - сортировка
+pärimine - запрашивание, опрос
+kasutaja - пользователь 
+kasutaja õigused - права пользователей 
+haldamine - администрирование
