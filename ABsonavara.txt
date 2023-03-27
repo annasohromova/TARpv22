@@ -17,3 +17,25 @@ turvalisus-безопастность
 kättesaadavus-доступность
 andmete õigsus-правильность данных
 sisestusvorm-форма ввода
+---------- 27.03
+näide - пример
+näidis - образец
+sõltuvus - зависимость (взаимосвязь)
+seos - связь
+seadistus - настройка
+paigaldus - установка
+hooldus - обслуживание
+lisamine - добавление
+kustutamine - удаление
+uuendamine - обновление
+sorteerimine - сортировка
+pärimine - запрашивание (опрос)
+kasutaja - пользователь
+kasutaja õigused - права пользователей
+haldamine - администрирование
+
+------
+save
+git add .
+git commit -a -m "sõnavara on täiendatud"
+git push
