@@ -1,5 +1,5 @@
 cd desktop /// направление к файлу 
-git config -- global user.name "Egor Fedorenko" /// установка имени
+git config --global user.name "Egor Fedorenko" /// установка имени
 git config --global user.emaile "egorfedorenko29@gmail.com" /// установка Email
 git config --global --list /// проверка config --global
 git clone https://github.com/IrinaMerkulova/TARpv22.git /// "залезть на дерево"

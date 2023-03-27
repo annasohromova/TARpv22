@@ -17,3 +17,19 @@ turvalisus - безопасность
 kättesaadavus - доступность
 andmete õigsus - правильность данных
 sisestusvorm - форма ввода
+-----------------------------------------------------------------
+näide - пример
+näidis - образец
+sõltuvus - зависимость
+seos - связь
+seadistus - настройки
+paigaldus - монтаж
+hooldus - обслуживание
+lisamine - добавление
+kustutamine - удаление
+uuendamine - обновление
+sorteerimine - сортировка
+pärimine - опрос 
+kasutaja - пользователь
+kasutajate õigused - права пользователя
+haldamine -администрирование
