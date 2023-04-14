@@ -3,7 +3,25 @@ SQL- Structured Query Language/Структурный язык запросов
 DDL - Data Definition Language/Язык описания данных/CREATE TABLE, ALTER TABLE, DROP TABLE.
 DML - Data Manipulation Language/Язык управления данных/INSERT INTO, UPDATE, DELETE, SELECT.
 Database - База данных
-Database management system - Система управления базой данных
+Database management system - Система управления базой данных/ Acces, MS SQL SERVER, XAMPP/localhost, Oracle
 Related table - Связанная таблица
 Relational database - Реляционная база данных
-Relationship
+Relationship - отношения 
+Record - Запись
+Primary Key - Первичный 
+Foreign Key - Вторичный 
+One-to-many relationship - Один к многим
+One-to-one relationship - Один к одному
+Query - Запрос
+Report - Отчет
+Form- форма
+Data type - Тип данных/ VARCHAR, CHAR, INT, FLOAT, DOUBLE, DECIMAL(5 , 2).
+--------------------------------------------------------------------------
+Constraints - ограничения
+
+NOT NULL
+UNIQUE - Уникальный
+NONE
+PRIMARY KEY 
+FOREINGH KEY
+CHECK
