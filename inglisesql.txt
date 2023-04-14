@@ -2,8 +2,28 @@ Arkadi Korotitsh TARpv22
 SQL - Structure Query Launguage / структурный язык запроса
 DDL - Data Definition Language / CREATE TABLE, ALTER TABLE, DROP TABLE
 DML - Data Manipulation Language / INSERT INTO , UPDATE, DELETE, SELECT
-Database - 
-Database management system - 
-Related table - 
-Relational database - 
-Relationship - 
+Database - база данных
+Database management system - система управления бд СУБД / Access, MS SQL SERVER,  XAMPP/LOCALHOST, oRACLE
+Related table - Связанная таблица
+Relational database - реляционная БД
+Relationship - отношение
+Record
+Primary Key
+Foreign Key
+One-to-many relationship
+One-to-one relationship
+Query
+Report - отчет
+Form - форма
+Data type / varchar(20) / char(1) / int / decimal(5,2)
+-------------------------
+Constraints - ограничения
+
+NOT NULL
+UNIQUE
+Primary Key
+Foreign Key
+CHECK
+
+-------------
+/base term
