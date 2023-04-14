@@ -1,0 +1,9 @@
+Edvard Datser
+SQL- Structured Query Language/Структурный язык запросов
+DDL - Data Definition Language/Язык описания данных/CREATE TABLE, ALTER TABLE, DROP TABLE.
+DML - Data Manipulation Language/Язык управления данных/INSERT INTO, UPDATE, DELETE, SELECT.
+Database - База данных
+Database management system - Система управления базой данных
+Related table - Связанная таблица
+Relational database - Реляционная база данных
+Relationship
