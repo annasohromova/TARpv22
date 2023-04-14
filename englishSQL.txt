@@ -1,0 +1,9 @@
+Anna Sohromova
+SQL - Structure Query Language/ Структурный язык запросов
+DDL - Data Definition Language/CREATE TABLE, ALTER TABLE, DROP TABLE
+DML - Data Manipulation Language/INSERT INTO, UPDATE, DELETE, SELECT
+Database
+Databse management system
+Related table
+Relational database
+Relationship - 
