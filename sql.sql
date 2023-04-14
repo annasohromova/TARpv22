@@ -1,3 +1,4 @@
+Oleksandr Bohatyrov
 SELECT * FROM table_name
 ----------------
 SELECT - Выбрать
@@ -36,7 +37,7 @@ condition - какой то параметр такой
 
 ALTER TABLE table_name ADD column_name datatype
 -----------------
-Oleksandr Bohatyrov
+
 ALTER TABLE - Новый столбец
 table_name - Нахвание таблицы
 ADD - добавить
