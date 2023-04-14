@@ -1,0 +1,26 @@
+SELECT * FROM table_name
+---------------
+SELECT - выбрать
+* - всё
+FROM - из / откуда
+table_name - имя таблицы
+
+CREATE TABLE table_name(column_name1,dataType,...) - создать таблицу
+------------
+INSERT INTO table_name(copumn_name1,...) - добавить в..
+VALUES (column_name1,...)
+-----------------
+DROP TABLE table_name - удаляет таблицы из базы данных
+----------
+UPDATE table_name SET column_name1=column_value1 - обновить таблицу
+-------------
+ALTER TABLE table_name ADD column_name datatype - добавить в таблицу новый столбец
+-----------------
+DELETE FROM table_name удалить из
+USE protseduurSohromova; использовать (откуда)
+GO
+CREATE PROCEDURE "..." создать процедуру/функцию
+ALTER TABLE table_name ADD FOREIGN KEY (column_name)
+References table_name2(column_name2)
+ADD FOREIGN KEY добавить внешний ключ
+ADD - добавить
