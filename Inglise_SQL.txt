@@ -1,0 +1,8 @@
+SQL - Structure Query Language/структурный язык запросов
+DDL -Data Defenition Language/CREATE TABLE, ALTER TABLE, DROP TABLE
+DML - Data Manipulation Language/INSERT INTO, UPDATE, DELETE, SELECT
+Database - 
+Database management system -  
+Related table - 
+Relational database - 
+Relationship - 
