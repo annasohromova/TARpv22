@@ -2,8 +2,26 @@ Oleksandr Bohatyrov
 SQL - Structured Query Language - структурный язык запросов
 DDL - Data Definition Language / CREATE TABLE, ALTER TABLE, DROP TABLE
 DML - Data Manipulation Language /INSERT INTO, UPDATE, DELETE, SELECT
-Database - 
-Database management system
-Related table
-Relational database
-Relationship
+Database - база данных
+Database management system - СУБД / Acces. MS SQL SERVER, XAMPP/localhost, Oracle
+-----------------
+Related table - связаная таблица
+Relational database - реляционная БД
+Relationship - отношение
+Record - запись
+Primary key
+Foreign key
+One-to-many relationship
+One-to-one relationship
+Query
+Report - отчет
+Form - форма
+Data type / varchar(20), char(1), int, decimal(5,2)
+
+------------------
+Constraints - ограничения
+NOT NULL
+UNIQUE
+Primary Key
+Foreign Key
+CHECK
