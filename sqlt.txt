@@ -1,0 +1,30 @@
+SELECT * FROM table_name
+----------------------------
+SELECT - выбрать
+* - все
+FROM - из/откуда
+table_name - имя таблицы
+CREATE TABLE table_name(column_name1 datatype,...) - создать таблицу
+column_name1 - азвание столбца
+datatype - тип данных
+-------------------------------------------------
+INSERT INTO table_name(column_name1,...) 
+VALUES (column_name1,...)
+insert into - добавить данные в таблицы
+VALUES - вычисляет значение строки или множество значений строк, заданное выражениями
+----------------------------------------------
+DROP TABLE table_name - удалить таблицу
+----------------------------------------
+UPDATE table_name SET column_name1=column_value1
+обновить таблицу, установить строки
+WHERE CONDITION - условие
+WHERE - где
+--------------------------------
+ALTER TABLE table_name ADD column_name datatype
+ADD - Добавить строку
+--------------------------------------------
+DELETE - функция удаляет несколько строк
+USE - команда, с помощью которой можно переключать контекст базы данных в SQL инструкциях
+ALTER TABLE table_name ADD FOREIGN KEY column_name REFERENCES table_name2(column_name2)
+ADD FOREIGN KEY - добавить вторичный ключ
+REFERENCES - 
