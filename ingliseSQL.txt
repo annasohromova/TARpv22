@@ -1,0 +1,28 @@
+Maksim Tsepelevits
+SQL - Structured Query Language/структурированный язык запросов
+DDL - Data Definition Language/Язык определения данных - CREATE TABLE, ALTER TABLE, DROP TABLE
+DML - Data Manipulation Language/Язык манипуляции данных - INSERT INTO, UPDATE, DELETE, SELECT
+Database - база данных
+Database management system - Система управления базой данных СУБД/MS Access, MS SQL Server, XAMPP, Localhost, Oracle
+Related table - Связанная таблица
+Relational database - реляционная база данных
+Relationship - Отношение
+Record - Запись
+Primary Key - Первичный ключ
+Foreign Key - Вторичный ключ
+One-to-many relationship - отношение одного ко многим
+One-to-one relationship - отношение одного к одному
+Query - запрос
+Report - отчет
+Form - Форма
+Data type / varchar, char, int, decimal, binary, varbinary, text, blob, enum, set
+--------------------------
+Constraints - Ограничения
+
+NOT NULL - Ensures that a column cannot have a NULL value
+UNIQUE - Ensures that all values in a column are different
+PRIMARY KEY - A combination of a NOT NULL and UNIQUE. Uniquely identifies each row in a table
+FOREIGN KEY - Prevents actions that would destroy links between tables
+CHECK - Ensures that the values in a column satisfies a specific condition
+DEFAULT - Sets a default value for a column if no value is specified
+CREATE INDEX - Used to create and retrieve data from the database very quickly
