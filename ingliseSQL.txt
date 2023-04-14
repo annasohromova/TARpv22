@@ -2,8 +2,16 @@ Yaroslav Yekasov
 SQL - Structure Query Language - strukturny yazik zaprosov
 DDL - Data Definition Language - CREATE TABLE, ALTER TABLE, DROP TABLE
 DML - Data Manipulation Language - INSERT INTO, UPDATE, DELETE, SELECT
-Database - 
-Database management system
-Related table
-Relational database - 
+Database - baza dannyh
+Database management system - sistema upravleniya bazoy dannyh - Access, MS SQL Server, XAMPP/localhost, Oracle
+Related table - svyazannie tablici
+Relational database - relyacionnaya BD
 Relationship - otnosheniya
+Record - zapis
+Primary key
+Foreign Key
+One-to-many relationship 
+One-to-one relationship
+Query - zapros
+Report - otchet
+form - forma
