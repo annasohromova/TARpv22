@@ -1,0 +1,20 @@
+Luca Gluhhov
+SQL - ? Structure Query Language /структурный язык запросов
+DDL - ? Data Definition Language /Create TABLE , ALTER TABLE, DROP TABLE
+DML -? Data Manipulation Language /INSERT INTO, Update, DELETE, SELLECT
+Database - ? база данных /varchar(20), char(1), int, float, decimal(5,2)
+------------------------------
+constains - ограничения  / NOT NULL, UNIQUE, PRIMARY KEY, Foreign key, CHECK
+------------------------------
+Database managment system -? система управления бд СУБД / Access, MS SQL SERVER, XAMPP/localhost, Oracle
+Related table - ? связаная таблицы
+Relational database - ? реляцонная БД
+Relationship - отношения
+record - запись
+Primary key
+Foreign Key
+One-to-many relationship
+One-to-one relationship
+Query - запросы
+report - отчет
+Form -форма
