@@ -1,0 +1,30 @@
+Alekasandr Nadvornoi 
+TARpv22
+
+========================================================================================================================================
+SQL - Structured query language - Язык структурированных запросов
+DDL - Data Definition Language - Язык определения данных / crate table, drop table, alter table
+DML - Data Manipulation Language - Язык  манипуляции данных / insert into, update, delete, select .
+Database - baza dannõh
+Database management system - sistema upravlenija bazõ dannõh / Acess, MC SQL Server, Xampp, Oracle 
+Related table - svaznaja tablica
+Relational database - relacionnaja baza dannõh
+Relationship - otnoshenija
+------------------------------------------------------------------------------------------------------------------------------------------
+Record
+Primary key
+Foregin key
+One-to-many relationship
+One-to-one relationship
+Query
+report - otchet
+form - forma
+Data type / varchar(20), char(1), int, decimal(5,2) 
+___________________________________________________________________________________________________________________________________________
+Constraints - ogranishenija
+
+NOT NULL
+UNIQUE
+Primary key
+Foregin key
+CHECK
