@@ -1,7 +1,7 @@
 Deniss Gorjunov
 SQL - Structured Query Language - структуированный язык запросов
 DDL - Data Definition Language - CREATE TABLE, ALTER TABLE, DROP TABLE.
-DML - Data Manipulation - INSERT, UPDATE, DELETE, SELECT
+DML  - Data Manipulation - INSERT, UPDATE, DELETE, SELECT
 Database
 Database management system
 Related table
