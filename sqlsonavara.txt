@@ -2,8 +2,26 @@ Maksym Miskevych
 SQL - structure query language / структурный язык запросов
 DDL - Data definition language /CREATE TABLE, ALTER TABLE, DROP TABLE
 DML Data manipulation language / INSERT INTO, UPDATE, DELETE, SELECT
-Database
-Database management system
-Related table
-Relational database
-Relationship
+Database - база данных
+Database management system - система управления бд СУБД/ Access, MS SQL, XAMPP/localhost, Oracle
+Related table - связанная таблица
+Relational database - реляционная база данных
+Relationship - отношение
+record
+Primary key 
+Foreign key
+One-to-many relationship 
+one-to-one relationship
+Query - запрос
+Report - отчет
+Form - форма
+Data type / varchar(20) char () int decimal(5,2)
+----------------------------------------------------
+Constraints - ограничения
+NOT NULL
+UNIQUE
+primary key
+foreign key
+CHECK
+------------------------------------------------
+
