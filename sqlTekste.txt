@@ -1,0 +1,40 @@
+SELECT * FROM table_name
+-----------------------------
+SELECT - выбрать
+* - всё
+FROM - откуда/из
+table_name - имя таблицы
+
+CREATE TABLE table_name(column, dataType, ...)
+--------------------------------------
+CREATE - создать
+TABLE - таблицы
+table_name - имя таблицы
+column - столбик/колонна
+dataType - тип даты
+
+INSERT INTO table_name(column_name1)
+--------------------------------------
+INSERT - вставить
+INTO - в
+table_name - имя таблицы
+column_name - имя столбика/колонны
+
+VALUES (column_value1,...)
+--------------------------------------
+VALUES - значения
+column_value1 - имя значения
+
+DROP TABLE table_name
+--------------------------------------
+UPDATE table_name SET column_name1=column_values1
+WHERE condition
+--------------------------------------
+ALTER TABLE table_name ADD column_name datatype;
+--------------------------------------
+DELETE FROM table_name WHERE [condition]
+[condition] - column_name=value
+--------------------------------------
+USE databasename;
+--------------------------------------
+ALTER TABLE table_name ADD FOREIGN KEY (column_name)
