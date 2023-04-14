@@ -1,0 +1,43 @@
+SELECT * FROM table_name 
+------------------------
+SELECT - Выбрать 
+* - Всё
+FROM - Из
+table_name - Название таблицы
+
+CREATE TABLE table_name(column_name dataType, ...)
+----------------------------------------------
+CREATE TABLE - Создать таблицу
+table_name( - Название таблицы
+column_name dataType, ...) - Название стоблца/ тип данных столбца, и тд.
+
+INSERT INTO table_name(column_name1, ...)
+VALUES (column_value1....)
+------------------------------------------
+INSERT INTO table_name(column_name1, ...) - Вставить в "название таблицы" (название столбца, ...)
+VALUES (columnn_value1...) - Значения (Значение для первого стоблца, ...)
+
+DROP TABLE table_name
+---------------------
+DROP TABLE - Удалить таблицу
+table_name - Название таблицы
+
+UPDATE table_name SET column_name1=column_value1
+WHERE condition
+------------------------------------------------
+UPDATE table_name SET column_name1=column_value1 - Обновить данные в таблице (название таблицы) ПОСТАВИТЬ значение
+WHERE condition - условие
+
+ALTER TABLE table_name ADD column_name datatype
+-----------------------------------------------
+ALTER TABLE table_name ADD column_name datatype - Добавить столбец (название таблицы), (название стоблца, тип стоблца)
+
+DELETE column_name FROM table_name WHERE condition
+USE database_name
+ALTER TABLE table_name ADD FOREIGN KEY (column_name)
+References table_name2(column_name2)
+------------------------------------
+DELETE column_name FROM table_name WHERE condition - Удалить (название столбца) ИЗ (название таблицы) ГДЕ условие..
+USE database_name - Использовать (имя базы данных)
+ALTER TABLE table_name ADD FOREIGN KEY (column_name) - Создать столбец (имя таблицы) Дать вторичный ключ (имя стоблца)
+References table_name2(column_name2) -  
