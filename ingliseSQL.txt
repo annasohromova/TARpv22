@@ -1,0 +1,9 @@
+Yaroslav Yekasov
+SQL - Structure Query Language - strukturny yazik zaprosov
+DDL - Data Definition Language - CREATE TABLE, ALTER TABLE, DROP TABLE
+DML - Data Manipulation Language - INSERT INTO, UPDATE, DELETE, SELECT
+Database - 
+Database management system
+Related table
+Relational database - 
+Relationship - otnosheniya
