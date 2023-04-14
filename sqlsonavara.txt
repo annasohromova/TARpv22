@@ -1,0 +1,9 @@
+Maksym Miskevych
+SQL - structure query language / структурный язык запросов
+DDL - Data definition language /CREATE TABLE, ALTER TABLE, DROP TABLE
+DML Data manipulation language / INSERT INTO, UPDATE, DELETE, SELECT
+Database
+Database management system
+Related table
+Relational database
+Relationship
