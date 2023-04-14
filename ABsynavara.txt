@@ -1,35 +1,19 @@
-﻿andmebaas - database - база данных
-andmebaasihaldur - админ БД
-andmebaasi haldamise tarkvara - СУБД - система управлния БД
-kirje - запись
-väli - поле
-tabel - таблица
-päring - запрос
-veerg - столбец
-rida - ряд
-seosed - связи / seos - связь
-piirangud - ограничения / PRIMARY KEY / FOREGIN KEY / NOT LL
-primaarvõti - первичный ключ
-andmemudel - модель данных
-varukoopia - резервная копия
-kasutusjuhend - руководство
-turvalisus - безопаснось
-kättesaadavus - доступноть
-andmete õigsus - 
-sisestusvorm - форма ввода
---------------------------------------------------------------------------------
-Näide - пример
-Näidis - образец
-Sõltuvus - зависимость таблиц
-Seos - связь
-Seadistus - настройка
-Paigaldus - установка
-Hooldus - ослуживание
-Lisamine - добавление
-Kustutamine - удаление
-Uuendamine - обновление
-Sorteerimine - сортировка
-Pärimine - запрашивание/опрос
-Kasutaja - пользователь
-Kasutajate õigused - права пользователей
-Haldamine - администриование 
+andmebaas-база данных
+andmebaasihaldur-админ базы данных
+andmebaasi haldamise tarkvara-субд-система управления базами данных
+kirje-
+väli-
+tabel-
+päring-
+veerg-
+rida-
+seosed-
+piirangud-
+primaarvõti-
+andmemudel-
+varukoopia-
+kasutusjuhend-
+turvalisus-
+kättesaadavus-
+andmete õigsus-
+sisestusvorm-
