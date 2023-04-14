@@ -1,0 +1,9 @@
+Artur Shushkevitch
+SQL - Structure Query Language - Структурный язык запросов
+DDL - Data Definition Language - (Create Table; Alter Table; Drop Table)
+DML - Data Manipulation Language - (Insert Into; Update; Delete; Select)
+Database
+Database management system
+Related table
+Relational database
+Relationship
