@@ -1,0 +1,31 @@
+SELECT * from table_name
+-----------------------------
+SELECT - выбрать
+* - все
+FROM - из
+table_name - имя таблицы
+
+
+CREATE TABLE table_name (column_name1 dataType, ...)
+-----------------------------
+INSERT INTO table_name(column_name1,...) 
+VALUES (column_name1,...)
+insert into - добавить данные в таблицы
+VALUES - вычисляет значение строки или множество значений строк, заданное выражениями
+-----------------------
+
+DROP TABLE table_name 
+------------------------
+UPDATE table_name SET column_name1=column_value1
+обновить таблицу, установить строки
+WHERE CONDITION - условие
+WHERE - где
+---------------------------
+ALTER TABLE table_name ADD column_name datatype
+ADD - Добавить строку
+------------------------------
+DELETE FROM table_name WHERE [condition] 
+[condition] - column_name=value 
+USE databasename; / использовать базу данных
+ALTER TABLE table_name ADD FOREIGN KEY (column_name)
+References table_name2(column_name2)
