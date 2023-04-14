@@ -2,8 +2,24 @@ Anna Sohromova
 SQL - Structure Query Language/ Структурный язык запросов
 DDL - Data Definition Language/CREATE TABLE, ALTER TABLE, DROP TABLE
 DML - Data Manipulation Language/INSERT INTO, UPDATE, DELETE, SELECT
-Database
-Databse management system
-Related table
-Relational database
-Relationship - 
+Database - база данных
+Databse management system - система управления базой данных СУБД/Access, MS SQL SERVER, XAMPP/localhost, Oracle
+Related table - связанная таблица
+Relational database - реляционная база данных
+Relationship - отношения
+Record - запись
+Primary Key - первичный ключ
+Foreign Key - внешний ключ
+One-to-many relationship
+One-to-one relationship
+Query -запрос
+Report - отчет
+Form - форма
+Data type/ varchar() / chat() / int / decimal(5,2)
+Constraints - ограничения 
+NOT NULL
+UNIQUE
+Primary Key
+Foreign Key
+CHECK
+/base term
