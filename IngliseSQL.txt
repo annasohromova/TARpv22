@@ -2,8 +2,25 @@ Artur Shushkevitch
 SQL - Structure Query Language - Структурный язык запросов
 DDL - Data Definition Language - (Create Table; Alter Table; Drop Table)
 DML - Data Manipulation Language - (Insert Into; Update; Delete; Select)
-Database
-Database management system
-Related table
-Relational database
-Relationship
+Database - База данных
+Database management system - Система управления базами данных (Access; MS MSQL SERVER; XAMPP; Oracle); 
+Related table - Связанная таблица
+Relational database - Реляционная база данных
+Relationship - Отношения
+Record - Запись
+Primary Key
+Foregin Key
+One-to-many relationship 
+One-to--one relationship 
+Query
+Report - Отчет
+Form - Форма
+Data Type (Integer;Char:Varchar(27);Float;Bool;Decemal(5,2))
+--------------------
+Constraints-Ограничения
+NOT NULL
+UNIQUE
+Primary Key
+Foregin Key
+CHECK
+
