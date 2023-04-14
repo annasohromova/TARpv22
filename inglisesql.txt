@@ -1,0 +1,9 @@
+Arkadi Korotitsh TARpv22
+SQL - Structure Query Launguage / структурный язык запроса
+DDL - Data Definition Language / CREATE TABLE, ALTER TABLE, DROP TABLE
+DML - Data Manipulation Language / INSERT INTO , UPDATE, DELETE, SELECT
+Database - 
+Database management system - 
+Related table - 
+Relational database - 
+Relationship - 
