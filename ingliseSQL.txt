@@ -1,0 +1,8 @@
+SQL
+DDL
+DML
+Database
+Database management system
+Related table
+Relational database
+Relationship
