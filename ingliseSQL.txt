@@ -15,3 +15,11 @@ One-to-one relationship
 Query - zapros
 Report - otchet
 form - forma
+Data type / string, varchar(29), char(1), text, int, decimal(5,2)
+-------------
+Constraints (ogranicheniya)
+NOT NULL
+UNIQUE
+PRIMARY KEY
+FOREIGN KEY
+CHECK
