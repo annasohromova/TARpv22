@@ -1,0 +1,78 @@
+SELECT * FROM table_name
+------------------
+SELECT - выбрать
+* - всё
+FROM - из
+table_name
+
+
+CREATE TABLE table_name(column_name data_type, ....)
+------------------
+CREATE 
+TABLE 
+table_name
+(column_name data_type, ....)
+
+
+INSERT INTO table_name(column_name, ....)
+VALUES (column_name, ....)
+------------------
+INSERT INTO
+table_name
+(column_name, ....)
+VALUES
+(column_name, ....)
+
+
+DROP TABLE table_name
+------------------
+DROP TABLE
+table_name
+
+
+UPDATE table_name ADD column_name=column_value
+WHERE condition
+------------------
+UPDATE 
+table_name 
+ADD 
+column_name=column_value
+WHERE 
+condition
+
+
+ALTER TABLE table_name ADD column_name datatype
+------------------
+ALTER TABLE 
+table_name 
+ADD 
+column_name 
+datatype
+
+
+DELETE FROM table_name WHERE [condition]
+[condition] - column_name=value
+------------------
+DELETE
+FROM 
+table_name 
+WHERE 
+[condition]
+[condition] - column_name=value
+
+
+USE databasename;
+------------------
+USE
+databasename;
+
+
+ALTER TABLE table_name ADD FOREIGN KEY (column_name) REFERENCES table_name2(column_name2)
+------------------
+ALTER TABLE 
+table_name 
+ADD 
+FOREIGN KEY 
+(column_name) 
+REFERENCES 
+table_name2(column_name2)
