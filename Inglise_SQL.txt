@@ -1,0 +1,9 @@
+Martin Kemppi
+SQL - Structure Query Language - структурный язык запроса
+DDL - Data Definition Language - язык описания данных - Create table/Alter table/Drop table
+DML - Data Manipulation Language - язык управления (манипулирования) данными - Insert/Update/Delete/Select
+Database - БД
+Database management system -
+Related table -
+Relational database -
+Relationship - 
