@@ -31,7 +31,7 @@ table_name  - имя таблицы
 SET - Установить
 column_name1=column_value1-имя столбца=значение столбца
 WHERE -где
-condition - условие
+condition - условие(CustomerID = 1)
 
 ALTER TABLE table_name ADD column_name datatype
 --------------------------
