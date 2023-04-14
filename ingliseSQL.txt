@@ -1,7 +1,8 @@
-SQL
-DDL
-DML
-Database
+Oleksandr Bohatyrov
+SQL - Structured Query Language - структурный язык запросов
+DDL - Data Definition Language / CREATE TABLE, ALTER TABLE, DROP TABLE
+DML - Data Manipulation Language /INSERT INTO, UPDATE, DELETE, SELECT
+Database - 
 Database management system
 Related table
 Relational database
