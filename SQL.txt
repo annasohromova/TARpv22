@@ -1,0 +1,53 @@
+SELECT - Выбрать
+* - Всё
+FROM - Из
+table_name - Название таблицы
+
+CREATE - Создать
+TABLE - Таблицу
+table_name - Название таблицы
+(column_name1 dataType,..) - Название столбца + тип данных
+
+INSERT - Вставить
+INTO - В
+table_name - Название таблицы
+(column_name1,...) - Название столбца
+VALUES - Значения
+(column_value1,...) - Значение
+
+DROP - Удалить
+TABLE - Таблицу
+table_name - Название таблицы
+
+UPDATE - Обновить
+table_name - Название таблицы
+SET - Установить
+column_name1=column_value1 - Название столбца=Значение
+WHERE - Где
+condition - Условие
+
+ALTER - Изменить
+TABLE - Таблицу
+table_name - Название таблицы
+ADD - Добавить
+column_name - Название столбца
+datatype  - Тип данных
+
+DELETE - Удалить
+FROM - Из
+table_name - Название таблицы
+WHERE - Где
+condition - Условие
+
+USE - Использовать
+database_name - Название бд
+
+ALTER - Изменить
+TABLE - Таблицу
+table_name - Название таблицы
+ADD - Добваить
+FOREIGN KEY - Вторичный ключ
+(column_name) - Название столбца
+REFERENCES -  Используя
+table_name2 - Название таблицы 2
+(column_name2) - Название столбца 2
