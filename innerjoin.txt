@@ -1,0 +1,12 @@
+--INNER JOIN
+select * from tootaja inner join amet
+on tootaja.ametId=amet.ametId;
+--kasutame tabeli alias-nimed
+select t.eesnimi, t.perenimi, a.ametNimetus from tootaja t
+inner join amet a
+on t.ametId=a.ametId;
+--tingimuse lisamine
+select t.eesnimi, t.perenimi, a.ametNimetus from tootaja t
+inner join amet a
+on t.ametId=a.ametId
+where t.eesnimi like 'A%';
