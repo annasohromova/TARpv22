@@ -15,9 +15,6 @@ where t.eesnimi like 'N%';
 
 --2.lisa 3. tabel
 
-        SELECT t.eesnimi, t.perenimi, a.ametNimetus, k.kursusNimetus FROM tootaka t  JOIN amet a
-        ON t.ametId = a.ametId
-        JOIN Kursus k ON t.tootajaId = k.tootajaId;
 
 --Kursus(kursusId, kursusNimetus, tootajaId, kestvus)
 
@@ -30,6 +27,9 @@ where t.eesnimi like 'N%';
         add foreign key(tootajaId) references tootaka(tootajaId)
 
 --3.koosta SELECT lause 3. tabeli põhjal
+        SELECT t.eesnimi, t.perenimi, a.ametNimetus, k.kursusNimetus FROM tootaka t  JOIN amet a
+        ON t.ametId = a.ametId
+        JOIN Kursus k ON t.tootajaId = k.tootajaId;
 
 
 
