@@ -1,0 +1,43 @@
+select * from tootaja inner join amet
+on tootaja.ametID=amet.ametID
+
+
+select * from tootaja t
+inner join amet a
+on t.ametID=a.ametID
+
+
+select t.eesnimi, t.perenimi, a.ametNimetus 
+from tootaja t
+inner join amet a
+on t.ametID=a.ametID;
+
+
+select t.eesnimi, t.perenimi, a.ametNimetus 
+from tootaja t
+inner join amet a
+on t.ametID=a.ametID
+Where t.eesnimi Like '%a%';
+
+-------------------------------------------------------------------------------
+--1.
+LEFT JOIN --Sellise päringu tulemusena on olemas kõik vasakpoolse tabeli kirjed, olenemata sellest, kas tabelis on liitumistingimusele vastavaid kirjeid. Väärtused, mis tabelis ei ühti, asendatakse saadud päringus väärtusega NULL.
+RIGHT JOIN --Päringu tulemusel on kõik õigest tabelist kirjed olemas, olenemata sellest, kas tabelis on liitumistingimusele vastavaid kirjeid. Väärtused, mis tabelis ei ühti, asendatakse saadud päringus väärtusega NULL.
+-----------------------------------------------------------------------------
+--2.
+create table Kursus(
+kursusID int primary key identity(1,1),
+kursuseNimetus varchar(50),
+tootajaID int,
+kestvus int)
+
+alter table Kursus 
+add foreign key (tootajaID)
+references tootaja(tootaja_ID)
+-------------------------------------------------------------------------------
+--3.
+select t.eesnimi, t.perenimi, a.ametNimetus, k.kursuseNimetus, k.kestvus
+from Kursus k inner join  tootaja t inner join amet a
+on t.ametID=a.ametID
+on k.tootajaID=t.tootaja_ID
+--Välja t.eesnimi, t.perenimi, a.ametNimetus, k.kursuseNimetus, k.kestvus tuletamine kolmest tabelist
