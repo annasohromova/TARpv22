@@ -27,5 +27,4 @@ SELECT * FROM tootaja t
 INNER JOIN amet a
 ON t.ametID = a.ametID
 INNER JOIN kursus k
-ON t.tootajaID = k.tootajaID
-WHERE t.eesnimi LIKE 'W%';
+ON t.tootajaID = k.tootajaID;
