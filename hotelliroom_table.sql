@@ -43,7 +43,7 @@ foreign key (room_type_ID) references room_type (room_type_ID)
 
 create table occupied_room(
 occupied_room_ID int primary key identity(1,1),
-check_in timestamp,
+check_in datetime,
 check_out datetime,
 room_ID int,
 foreign key (room_ID) references room (room_ID),
