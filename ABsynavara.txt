@@ -3,17 +3,30 @@ andmebaasihaldur-админ базы данных
 andmebaasi haldamise tarkvara-субд-система управления базами данных
 kirje-
 väli-
-tabel-
-päring-
-veerg-
-rida-
+tabel-таблица
+päring-запрос
+veerg-столбец
+rida-ряд
 seosed-
-piirangud-
-primaarvõti-
-andmemudel-
+piirangud-ограничения
+primaarvõti- первичный ключ
+andmemudel-модель данных
 varukoopia-
-kasutusjuhend-
+kasutusjuhend-инструкция приминения 
 turvalisus-
-kättesaadavus-
+kättesaadavus-доступность
 andmete õigsus-
-sisestusvorm-
+sisestusvorm-форма заполнения
+päästik - тригер
+käivita - запустить
+salvesta - сохранить
+sisesta - вводить
+moodusta - образуй?создай
+laadi alla - скачай
+laadi ülles - загрузи
+käivitud päring - запущенный запрос
+salvestatud protseduur - сохраненная процедура
+muutuste jälitus - отслеживание изменений
+tõrketeade - сообщение об ошибке
+värsendus - обновление
+
